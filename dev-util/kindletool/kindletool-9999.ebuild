@@ -15,7 +15,6 @@ EGIT_REPO_URI="https://github.com/NiLuJe/${MY_PN}.git"
 
 LICENSE="GPL-3"
 SLOT="0"
-KEYWORDS="~amd64 ~arm64 ~arm ~x86 ~x64-macos ~x86-macos ~x86-winnt"
 IUSE="debug"
 
 RDEPEND=""
